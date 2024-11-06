@@ -2,19 +2,13 @@
 
 This cheatsheet contains common commands for setting up a **Python Virtual Environment** and working with **Git** and **GitHub**. Use it as a quick reference for common tasks in Python development and version control.
 
----
 
-## Table of Contents
-- [Virtual Environment](#virtual-environment)
-- [Git and GitHub](#git-and-github)
+## Requirements
 
----
+- **Python**: Ensure Python is installed on your system.
+- **Git**: Install Git to manage repositories.
+- **Windows Command Prompt or PowerShell**: All commands in this cheatsheet are tailored for Windows command-line interfaces.
 
-## Virtual Environment
+## Usage
 
-A virtual environment allows you to manage dependencies for your project without affecting system-wide Python packages.
-
-### 1. **Navigate to Folder**  
-Navigate to the folder where you want to create your virtual environment:
-```bash
-cd 'folder_name'
+Refer to the provided PDF, *"Venv and Git Cheatsheet for Windows,"* for detailed commands.
